@@ -9,8 +9,6 @@ output:
     css:
       - css/manual-fonts.css
       - css/mytheme.css
-    includes:
-      after_body: css/insert-logo.html
     nature:
       highlightStyle: monokai
       highlightLines: true
