@@ -1,6 +1,10 @@
 ## the roots of education are bitter but the fruit is sweet
 
+![](css/images/08-21-ucr-card.png)
+
 :lemon: a quote widely (mis)attributed to Aristotle, much to the chagrin of Aristotelian philosophers
+
+🎞️ [View Slide Deck](https://ledelaney.org/talks/2021ucr/)
 
 ## Slides
 
