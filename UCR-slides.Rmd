@@ -1,5 +1,6 @@
 ---
-title: "on the development of biological understanding"
+title: "the roots of education are bitter but the fruit is sweet"
+subtitle: "on the development of biological understanding"
 author: "Lucy Delaney"
 institute: "University of Illinois at Chicago"
 date: "`r Sys.Date()`"
@@ -15,5 +16,29 @@ output:
       ratio: "4:3"
       countIncrementalSlides: false
 ---
+
+```{r metathis, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_name("github-repo" = "ledelaney/08-21-UCR") %>% 
+  meta_social(
+    title = "the roots of education are bitter but the fruit is sweet: on the development of biological understanding",
+    description = paste(
+      "Talk presented at UC Riverside, August 2021"
+    ),
+    url = "https://ledelaney.org/talks/2021ucr/",
+    image = "https://ledelaney.org/talks/2021ucr/css/images/08-21-ucr-card.png",
+    image_alt = paste(
+      "Title slide of the roots of education are bitter but the fruit is sweet: on the development of biological understanding", 
+      "Talk presented at UC Riverside, August 2021", 
+      "by Lucy Delaney"
+    ),
+    og_type = "website",
+    og_author = "Lucy Delaney",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@emergentyLucy",
+    twitter_site = "@emergentlyLucy"
+  )
+```
 
 class: right, middle, title-slide
