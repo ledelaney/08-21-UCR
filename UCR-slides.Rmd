@@ -1,0 +1,21 @@
+---
+title: "on the development of biological understanding"
+author: "Lucy Delaney"
+institute: "University of Illinois at Chicago"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css:
+      - css/manual-fonts.css
+      - css/mytheme.css
+    includes:
+      after_body: css/insert-logo.html
+    nature:
+      highlightStyle: monokai
+      highlightLines: true
+      ratio: "4:3"
+      countIncrementalSlides: false
+---
+
+class: right, middle, title-slide
