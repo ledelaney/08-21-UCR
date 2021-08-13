@@ -172,6 +172,237 @@ line-height: normal;
       z-index: -1;
 }
 
+/* slide one: main points */
+
+.bg_walnut {
+  position: relative;
+  z-index: 1;
+  background-color: #efefef;
+}
+
+.bg_walnut::before {    
+  content: "";
+  background-image: url('images/bg/walnut.jpg');
+  background-size: 30%;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 370px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+.walnut-text{
+  width: 70%;
+  text-align: right;
+  position: relative;
+  left: 200px;
+}
+
+
+
+/* slide two: understand and explain */
+
+.bg_avo {
+  position: relative;
+  z-index: 1;
+  background-color: #f7f5ef;
+}
+
+.bg_avo::before {    
+  content: "";
+  background-image: url('images/bg/avo.png');
+  background-size: 95%;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 470px;
+  right: 0px;
+  bottom: 0px;
+  left: 630px;
+  opacity: 1;
+  z-index: -1;
+}
+
+/* slide three: twitter causality */
+
+/* slide four: adaptation mess */
+
+.bg_black {
+  position: relative;
+  background-color: #f7f6f2;
+  z-index: 1;
+}
+
+.bg_black::before {    
+  content: "";
+  background-image: url('images/bg/black.png');
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-color: #f7f6f2;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 400px;
+  opacity: 1;
+  z-index: -1;
+}
+
+
+
+.bg_apple {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_apple::before {    
+  content: "";
+  background-image: url('images/bg/apple.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #f6f5f0;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+
+
+.bg_peach {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_peach::before {    
+  content: "";
+  background-image: url('images/bg/peach.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #f7f6f2;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+
+
+.bg_straw {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_straw::before {    
+  content: "";
+  background-image: url('images/bg/straw.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #f7f6f4;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+
+.bg_pom {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_pom::before {    
+  content: "";
+  background-image: url('images/bg/pom.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #1f1f1f;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+
+.bg_lemon {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_lemon::before {    
+  content: "";
+  background-image: url('images/bg/lemon.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #edece7;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+
+.bg_pear {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_pear::before {    
+  content: "";
+  background-image: url('images/bg/pear.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #eeede9;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+
+.bg_pine {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_pine::before {    
+  content: "";
+  background-image: url('images/bg/pine.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #f0efea;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+
+
+
 
 
 /* slide one: introduction */
