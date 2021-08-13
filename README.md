@@ -13,7 +13,7 @@ Libraries and preliminary `HTML` file created with the R package `xaringan`, bui
 Most originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), an incredible resource of public domain images. (Found trawling the GitHub pages of [@apreshill](https://github.com/apreshill).)
 
 + [Cockatoo and Pomegranate by Ohara Koson (1877–1945)](https://www.rawpixel.com/image/2438864/free-illustration-image-bird-japanese-flower)
-+ [Walnut (Persica violacea) from Pomona Italiana (1817 - 1839) by Giorgio Gallesio](https://www.rawpixel.com/image/321652/free-illustration-image-fruit-botanical-book)
++ [Walnut (_Persica violacea_) from Pomona Italiana (1817 - 1839) by Giorgio Gallesio](https://www.rawpixel.com/image/321652/free-illustration-image-fruit-botanical-book)
 + [Delicious red cherries illustration, U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297988/free-illustration-image-fruit-cherry-botanical)
 + [Vintage branch of blackberry](https://www.rawpixel.com/image/2289532/free-illustration-image-fruit-blackberry-berry)
 + [Hand drawn lemon, Biodiversity Heritage Library](https://www.rawpixel.com/image/2880124/free-illustration-image-lemon-fruit-plant)
