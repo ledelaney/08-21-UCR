@@ -334,11 +334,11 @@ line-height: normal;
 .bg_apple::before {    
   content: "";
   background-image: url('images/bg/apple.png');
-  background-size: 30%;
+  background-size: 27%;
   background-repeat: no-repeat;
   background-color: #f6f5f0;
   position: absolute;
-  top: 380px;
+  top: 430px;
   right: 0px;
   bottom: 0px;
   left: 30px;
@@ -352,6 +352,7 @@ line-height: normal;
   left: 2%;
 }
 
+/* slide six: proximate and ultimate */
 
 .bg_peach {
   position: relative;
@@ -360,8 +361,8 @@ line-height: normal;
 
 .bg_peach::before {    
   content: "";
-  background-image: url('images/bg/peach.jpg');
-  background-size: contain;
+  background-image: url('images/bg/peach.png');
+  background-size: 22%;
   background-repeat: no-repeat;
   background-color: #f7f6f2;
   position: absolute;
@@ -373,27 +374,34 @@ line-height: normal;
   z-index: -1;
 }
 
+.bg_nopeach {
+  background-color: #f7f6f2;
+}
 
+/* slide seven: teleological reasoning */
 
 .bg_straw {
   position: relative;
   z-index: 1;
+  background-color: #f7f6f4;
 }
 
 .bg_straw::before {    
   content: "";
-  background-image: url('images/bg/straw.jpg');
-  background-size: contain;
+  background-image: url('images/bg/straw.png');
+  background-size: 95%;
   background-repeat: no-repeat;
   background-color: #f7f6f4;
   position: absolute;
-  top: 0px;
+  top: 480px;
   right: 0px;
   bottom: 0px;
-  left: 0px;
+  left: 580px;
   opacity: 1;
   z-index: -1;
 }
+
+
 
 
 .bg_pom {
