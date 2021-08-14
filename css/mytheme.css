@@ -46,7 +46,7 @@ color: #8c8c8c
 
 .pull-low {
 position: relative;
-top: 200px;
+top: 100px;
 line-height: normal;
 }
 
@@ -225,6 +225,35 @@ line-height: normal;
   z-index: -1;
 }
 
+
+.circle {
+  width: 500px;
+  height: 200px;
+  border-style: solid;
+  border-width: 6px;
+  border-color: #444444;
+  border-radius: 200px;
+  background-color: #343444;
+  box-shadow: inset 0px 0px 10px 0px #222222;
+  overflow: hidden;
+}
+
+.circleWrapper {
+  width: 512px;
+  height: 212px;
+  padding: 0px;
+  border-radius: 212px;
+  box-shadow: 0px 0px 10px 0px #000000;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+  width: 200px;
+  height: 200px;
+  background-color: #ffffff;
+}
+
 /* slide three: twitter causality */
 
 /* slide four: adaptation mess */
@@ -238,40 +267,90 @@ line-height: normal;
 .bg_black::before {    
   content: "";
   background-image: url('images/bg/black.png');
-  background-size: 50%;
+  background-size: 80%;
   background-repeat: no-repeat;
   background-color: #f7f6f2;
   position: absolute;
   top: 0px;
   right: 0px;
   bottom: 0px;
-  left: 400px;
+  left: 600px;
   opacity: 1;
   z-index: -1;
 }
 
+.blacktitle {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 250px;
+  bottom: 0px;
+}
 
+.opaque {
+  opacity: 0.5;
+}
+
+.circleBase {
+  border-radius: 50%;
+  position: relative;
+  top: 100px;
+}
+
+.circle1 {
+  width: 200px;
+  height: 200px;
+  background: #4bc475;
+  border: 1px solid #000;
+}
+.circle2 {
+  width: 200px;
+  height: 200px;
+  background: #a1a1a1;
+  border: 1px solid #000;
+}
+.ecology {
+  position: relative;
+  top: 100px;
+  left: 50px;
+}
+
+.evo {
+  position: relative;
+  top: 100px;
+  left: 50px;
+
+
+}
+
+/* slide five: conceptual understanding */
 
 .bg_apple {
   position: relative;
   z-index: 1;
+  background-color: #f6f5f0;
 }
 
 .bg_apple::before {    
   content: "";
-  background-image: url('images/bg/apple.jpg');
-  background-size: contain;
+  background-image: url('images/bg/apple.png');
+  background-size: 30%;
   background-repeat: no-repeat;
   background-color: #f6f5f0;
   position: absolute;
-  top: 0px;
+  top: 380px;
   right: 0px;
   bottom: 0px;
-  left: 0px;
+  left: 30px;
   opacity: 1;
   z-index: -1;
 }
 
+.appletitle {
+  position: absolute;
+  top: -1%;
+  left: 2%;
+}
 
 
 .bg_peach {
@@ -399,552 +478,6 @@ line-height: normal;
   opacity: 1;
   z-index: -1;
 }
-
-
-
-
-
-
-/* slide one: introduction */
-
-.bg_peacock {
-  position: relative;
-  z-index: 1;
-}
-
-.bg_peacock::before {    
-      content: "";
-      background-image: url('images/bg/koson-peacock.jpg');
-      background-size: cover;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 0.3;
-      z-index: -1;
-}
-
-
-/* slide two: explanation */
-
-.bg_bat {
-  position: relative;
-  z-index: 1;
-  background-color: #F7F7F6;
-}
-
-.bg_bat::before {    
-      content: "";
-      background-image: url('images/bg/bat.jpg');
-      background-size: 600px;
-      background-repeat: no-repeat;
-      background-color: #F7F7F6;
-      position: absolute;
-      top: 350px;
-      right: 0px;
-      bottom: 0px;
-      left: 430px;
-      opacity: 0.9;
-      z-index: -1;
-}
-
-.circle {
-  width: 500px;
-  height: 200px;
-  border-style: solid;
-  border-width: 6px;
-  border-color: #444444;
-  border-radius: 200px;
-  background-color: #343444;
-  box-shadow: inset 0px 0px 10px 0px #222222;
-  overflow: hidden;
-}
-
-.circleWrapper {
-  width: 512px;
-  height: 212px;
-  padding: 0px;
-  border-radius: 212px;
-  box-shadow: 0px 0px 10px 0px #000000;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.content {
-  width: 200px;
-  height: 200px;
-  background-color: #ffffff;
-}
-
-/* slide three: causality is complicated */
-
-/* slide four: the kinds of questions */
-
-
-.bg_jelly {
-  position: relative;
-  z-index: 1;
-}
-
-.bg_jelly::before {    
-      content: "";
-      background-image: url('images/bg/naturalists-misc.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 500px;
-      opacity: 0.4;
-      z-index: -1;
-}
-
-
-
-.bg_sunflower {
-  position: relative;
-  z-index: 1;
-  background-color: #EFEDE6;
-}
-
-.bg_sunflower::before {    
-      content: "";
-      background-image: url('images/bg/sunflower.jpg');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-color: #EFEDE6;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
-
-.bg_sunflower h3 {
-  position: relative;
-  top: -20px;
-}
-
-/* slide two: evolution mountain */
-
-.bg_01mt {    
-  background-image: url('images/figs/01-mountain.png');
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 1.1;
-}
-
-.bg_02mt {    
-  background-image: url('images/figs/02-mountain.png');
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 1.1;
-}
-
-.bg_03mt {    
-  background-image: url('images/figs/03-mountain.png');
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 1.1;
-}
-
-.bg_04mt {    
-  background-image: url('images/figs/04-mountain.png');
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 1.1;
-}
-
-.bg_05mt {    
-  background-image: url('images/figs/05-mountain.png');
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 1.1;
-}
-.bg_06mt {    
-  background-image: url('images/figs/06-mountain.png');
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 1.1;
-}
-.bg_07mt {    
-  background-image: url('images/figs/07-mountain.png');
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 1.1;
-}
-.bg_08mt {    
-  background-image: url('images/figs/08-mountain.png');
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 1.1;
-}
-
-/* slide three: proximate and ultimate causality */
-
-.bg_gorg {
-  position: relative;
-  z-index: 1;
-}
-
-.bg_gorg::before {    
-      content: "";
-      background-image: url('images/bg/gorgonia.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 0.2;
-      z-index: -1;
-}
-
-/* slide four: causal scope */
-
-
-
-
-/* slide five: kampourakis typology */
-
-
-/* slide six: legitimate teleology */
-
-.bg_bison {
-  position: relative;
-  z-index: 1;
-  background-color: #EEEDE9;
-}
-
-.bg_bison::before {    
-      content: "";
-      background-image: url('images/bg/bison.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #EEEDE9;
-      position: absolute;
-      top: 90px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 0.9;
-      z-index: -1;
-}
-
-.bisontext {
-  position: absolute;
-  top: 340px;
-  left: 200px;
-  width: 65%;
-}
-
-/* slide seven: utility of functional description */
-
-
-.bg_butterfly {
-  position: relative;
-  z-index: 1;
-}
-
-.bg_butterfly::before {    
-      content: "";
-      background-image: url('images/bg/laertes-butterfly.jpg');
-      background-size: 40%;
-      background-repeat: no-repeat;
-      position: absolute;
-      right: 1%;
-      bottom: 1%;
-      opacity: 0.4;
-      z-index: -1;
-}
-
-/* slide eight: tinbergen framework, organized */
-
-/* slide nine: developing questions */
-
-.bg_fish {
-  position: relative;
-  z-index: 1;
-  background-color: #F9F9F7;
-}
-
-.bg_fish::before {    
-  content: "";
-  background-image: url('images/bg/fish.jpg');
-  background-size: 400px;
-  background-repeat: no-repeat;
-  background-color: #F9F9F7;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 0.9;
-  z-index: -1;
-}
-
-.bg_fish h2 {
-position: relative;
-top: 240px;
-width: 40%;
-right: 70px;
-text-align: left;
-line-height: normal;
-
-}
-
-/* slide ten: gap in literature */
-
-.bg_sting {
-  position: relative;
-  z-index: 1;
-  background-color: #F4EFEF;
-}
-
-.bg_sting::before {    
-      content: "";
-      background-image: url('images/bg/sting.jpg');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-color: #F4EFEF;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 10px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
-
-.bg_sting h2 {
-  position: absolute;
-  top: 22%;
-  right: 5%;
-  width: 35%;
-}
-
-/* slide eleven: propose the framework */
-
-.bg_butterfly {
-  position: relative;
-  z-index: 1;
-}
-
-.bg_butterfly::before {    
-      content: "";
-      background-image: url('images/bg/laertes-butterfly.jpg');
-      background-size: 40%;
-      background-repeat: no-repeat;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 40px;
-      opacity: 0.4;
-      z-index: -1;
-}
-
-/* slide twelve: validity evidence */
-
-.bg_leaves {
-  position: relative;
-  z-index: 1;
-  background-color: #F3F1EB;
-}
-
-.bg_leaves::before {    
-  content: "";
-  background-image: url('images/bg/leaves.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-color: #F3F1EB;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 50px;
-  opacity: 1;
-  z-index: -1;
-}
-
-.leavestext {
-  width: 50%;
-  line-height: 1.3em;
-  position: relative;
-  text-align: left;
-  left: 230px;
-}
-
-/* slide thirteen: overview */
-
-/* slide fourteen: pattern you discovered  */
-
-.bg_10-results {
-  background-image: url(images/figs/50-results.png);
-  background-size: 90%;
-  background-repeat: no-repeat;
-}
-
-.bg_11-results {
-  background-image: url(images/figs/51-results.png);
-  background-size: 90%;
-  background-repeat: no-repeat;
-}
-
-.bg_12-results {
-  background-image: url(images/figs/52-results.png);
-  background-size: 90%;
-  background-repeat: no-repeat;
-}
-
-.bg_13-results {
-  background-image: url(images/figs/53-results.png);
-  background-size: 90%;
-  background-repeat: no-repeat;
-}
-
-
-.bg_14-results {
-  background-image: url(images/figs/54-results.png);
-  background-size: 90%;
-  background-repeat: no-repeat;
-}
-
-
-
-/* slide fifteen: limitations and future work */
-
-.bg_3birds {
-  position: relative;
-  z-index: 1;
-  background-color: #F3F1EB;
-}
-
-.bg_3birds::before {    
-  content: "";
-  background-image: url('images/bg/three-birds.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-color: #F3F1EB;
-  position: absolute;
-  top: 30px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 1;
-  z-index: -1;
-}
-
-.birdtext{
-  background-color: #F3F1EB;
-  width: fit-content;
-  position: relative;
-  right: 10px;
-}
-
-/* conclusion slide */
-
-.bg_2birds {
-  position: relative;
-  z-index: 1;
-  background-color: #f3e9e0;
-}
-
-.bg_2birds::before {    
-  content: "";
-  background-image: url('images/bg/2birds.jpg');
-  background-size: 440px;
-  background-repeat: no-repeat;
-  background-color: #f3e9e0;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 1;
-  z-index: -1;
-}
-
-/* acknowledgements slide */
-
-.bg_lotus {
-  position: relative;
-  z-index: 1;
-}
-
-.bg_lotus::before {    
-      content: "";
-      background-image: url('images/bg/lotus.jpg');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-color: #B0C4CB;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
-
-.bg_lotus h2{
-  /* width: 80%; */
-  position: relative;
-  left: 100px;
-  top: 20px;
-}
-
-.lotustext {
-  position: relative;
-  text-align: right;
-  left: 20px;
-}
-
-.lotusthanks{
-  background-color: rgb(218, 174, 169);
-  width: fit-content;
-}
-
-
-
-
 
 
 /*-- LINK STYLING --*/
