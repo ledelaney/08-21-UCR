@@ -494,6 +494,43 @@ line-height: normal;
   top: 40%;
 }
 
+.pinetext2 {
+  position: absolute;
+  right: 3%;
+  width: 70%;
+  top: 30%;
+}
+
+
+/* slide eleven: lesson plan */
+
+.bg_2citrus {
+  position: relative;
+  z-index: 1;
+  background-color: #f7f6f4;
+}
+
+.bg_2citrus::before {    
+  content: "";
+  background-image: url('images/bg/3-citrus.png');
+  background-size: 95%;
+  background-repeat: no-repeat;
+  background-color: #f7f6f4;
+  position: absolute;
+  top: 480px;
+  right: 0px;
+  bottom: 0px;
+  left: 580px;
+  opacity: 1;
+  z-index: -1;
+}
+
+.cititle{
+  position: absolute;
+  left: 3%;
+  top: 1%;
+
+}
 
 
 .bg_pom {
