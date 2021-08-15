@@ -24,3 +24,7 @@ Originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), a
 + [Two apples on a branch (1834–1895) by Johannes Reekers (II). Original from The Rijksmuseum.](https://www.rawpixel.com/image/843193/still-life-apples)
 + [Avocados (_Persea_) (1937) by anonymous, U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2260210/free-illustration-image-fruit-food)
 + [Hand drawn pineapple, Biodiversity Heritage Library](https://www.rawpixel.com/image/2880507/free-illustration-image-pineapple-tropical-fruit)
++ [Delicious purple plum in a branch illustration. Digitally enhanced illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2289575/free-illustration-image-fruit-leaves-plum)
++ [Lemons (Citrus Limon) (1908) by Ellen Isham Schutt. Original from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2255365/free-illustration-image-lemon-fruit-vintage)
++[Vintage halved pomegranate illustration. Digitally enhanced illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297919/free-illustration-image-fruit-pomegranate-food)
++ [Vintage banana illustration. Digitally enhanced illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2289688/free-illustration-image-banana-fruit-watercolor)

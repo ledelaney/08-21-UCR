@@ -333,7 +333,7 @@ line-height: normal;
 
 .bg_apple::before {    
   content: "";
-  background-image: url('images/bg/apple2.png');
+  background-image: url('images/bg/apple.png');
   background-size: 37%;
   background-repeat: no-repeat;
   background-color: #f2f0e7;
@@ -512,7 +512,7 @@ line-height: normal;
 
 .bg_2citrus::before {    
   content: "";
-  background-image: url('images/bg/3-citrus.png');
+  background-image: url('images/bg/2-citrus.png');
   background-size: 95%;
   background-repeat: no-repeat;
   background-color: #f7f6f4;
@@ -530,6 +530,84 @@ line-height: normal;
   left: 3%;
   top: 1%;
 
+}
+
+.citimg {
+  position: absolute;
+  right: 4%;
+  top: 10%;
+}
+
+.citimg + * {
+  clear: both;
+}
+
+
+
+
+
+
+/* slide twelve: CUREs */
+
+.bg_3citrus {
+  position: relative;
+  z-index: 1;
+  background-color: #f7f6f4;
+}
+
+.bg_3citrus::before {    
+  content: "";
+  background-image: url('images/bg/3-citrus.png');
+  background-size: 25%;
+  background-repeat: no-repeat;
+  background-color: #f7f6f4;
+  position: absolute;
+  top: 150px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: -1;
+}
+
+.cititle2{
+  position: absolute;
+  right: 3%;
+  top: 1%;
+}
+
+.under {
+  text-decoration: underline;
+}
+
+
+/* slide thirteen: data */
+
+.bg_cherries {
+  position: relative;
+  z-index: 1;
+  background-color: #f2f1ef;
+}
+
+.bg_cherries::before {    
+  content: "";
+  background-image: url('images/bg/cherries.png');
+  background-size: 85%;
+  background-repeat: no-repeat;
+  background-color: #f2f1ef;
+  position: absolute;
+  top: 100px;
+  right: 0px;
+  bottom: 0px;
+  left: 700px;
+  opacity: 1;
+  z-index: -1;
+}
+
+.cherrytitle {
+  position: absolute;
+  right: 3%;
+  top: 1%;
 }
 
 
