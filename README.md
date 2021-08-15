@@ -10,7 +10,7 @@ Libraries and preliminary `HTML` file created with the R package `xaringan`, bui
 
 ### Images
 
-Most originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), an incredible resource of public domain images. (Found trawling the GitHub pages of [@apreshill](https://github.com/apreshill).)
+Originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), an incredible resource of public domain images. (Found trawling the GitHub pages of [@apreshill](https://github.com/apreshill).) Many were modified later in Illustrator.
 
 + [Cockatoo and Pomegranate by Ohara Koson (1877–1945)](https://www.rawpixel.com/image/2438864/free-illustration-image-bird-japanese-flower)
 + [Walnut (_Persica violacea_) from Pomona Italiana (1817 - 1839) by Giorgio Gallesio](https://www.rawpixel.com/image/321652/free-illustration-image-fruit-botanical-book)
@@ -21,6 +21,6 @@ Most originate from [RawPixel](https://www.rawpixel.com/category/53/public-domai
 + [Vintage halved peach illustration, U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2289569/free-illustration-image-peach-fruit-watercolor)
 + [Vintage strawberry illustration, U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297703/free-illustration-image-strawberry-food-fruit)
 + [Hand drawn pear, Biodiversity Heritage Library](https://www.rawpixel.com/image/2880295/free-illustration-image-fruit-pear-vintage-food)
-+ [Vintage apple illustration, U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2289534/free-illustration-image-apple-20th-century-vintage)
++ [Two apples on a branch (1834–1895) by Johannes Reekers (II). Original from The Rijksmuseum.](https://www.rawpixel.com/image/843193/still-life-apples)
 + [Avocados (_Persea_) (1937) by anonymous, U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2260210/free-illustration-image-fruit-food)
 + [Hand drawn pineapple, Biodiversity Heritage Library](https://www.rawpixel.com/image/2880507/free-illustration-image-pineapple-tropical-fruit)
