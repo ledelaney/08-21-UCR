@@ -353,6 +353,15 @@ line-height: normal;
   left: 2%;
 }
 
+.apple-footnote {
+  position: absolute;
+  bottom: 0%;
+  right: 1em;
+  font-size: 65%;
+  line-height: 1.3em;
+  font-weight: bolder;
+}
+
 /* slide six: proximate and ultimate */
 
 .bg_peach {
