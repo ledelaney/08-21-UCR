@@ -15,7 +15,7 @@ BoldItalicFont  = MinionPro-BoldIt.otf]
 
 % spacing
 \usepackage{setspace}
-\setstretch{1}
+\setstretch{1.5}
 
 % set paragraph indent and between paragraph spacing
 \setlength\parindent{0pt}
@@ -50,7 +50,9 @@ BoldItalicFont  = MinionPro-BoldIt.otf]
 \usepackage{pdflscape}
 \usepackage{pdfpages}
 \usepackage{multicol}
+
 \usepackage{xcolor}
+\definecolor{darkorange}{HTML}{D35023}
 
 % references
 \usepackage[natbibapa]{apacite} 
@@ -83,8 +85,8 @@ BoldItalicFont  = MinionPro-BoldIt.otf]
 \fancypagestyle{alldocument}{
 \renewcommand{\headrulewidth}{0pt}
 \fancyfoot[R]{\thepage\ of \pageref{LastPage}}
-\fancyfoot[L]{References, UCR blah}
-\fancyfoot[C]{}}}
+\fancyfoot[L]{\textit{Lucy Delaney} $\vert$ \href{https://github.com/ledelaney/08-21-UCR}{\faGithub}}
+\fancyfoot[C]{}}
 
 % image graphics on page
 \usepackage[pages=some]{background}
@@ -97,7 +99,7 @@ hshift=-227,
 vshift=-48,
 angle=0,
 contents={%
-  \includegraphics[width=0.27\textwidth]{../input/images/2-citrus.png}
+  \includegraphics[width=0.27\textwidth]{orange.png}
   }%
 }
 
@@ -121,12 +123,20 @@ contents={%
 \BgThispage
 \pagestyle{alldocument}
 
-\section*{\fontsize{16}{48}\selectfont \textsc{References}}
+\section*{\fontsize{16}{48}\selectfont \textsc{References \& Cited Work}}
 \vspace{-4mm}
 \hspace{0.165\textwidth}\vhrulefill{0.4pt}
 
+\begin{flushright}
+\textit{``The roots of education are bitter but the fruit is sweet''\\
+Talk given at UC Riverside, August 2021}
+\end{flushright}
 
-\bibliographystyle{apacite}
-\bibliography{../input/refs} 
+\vspace{-6mm}
+
+\nocite{*} 
+
+\bibliographystyle{apalike}
+\bibliography{refs} 
 
 \end{document}
