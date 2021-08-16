@@ -22,7 +22,7 @@ Originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), a
 + [Hand drawn lemon from Biodiversity Heritage Library](https://www.rawpixel.com/image/2880124/free-illustration-image-lemon-fruit-plant)
 + [Hand drawn pear from Biodiversity Heritage Library](https://www.rawpixel.com/image/2880295/free-illustration-image-fruit-pear-vintage-food)
 + [Hand drawn pineapple from Biodiversity Heritage Library](https://www.rawpixel.com/image/2880507/free-illustration-image-pineapple-tropical-fruit)
-+[Citrus from Traité des Arbres et Arbustes que l'on cultive en France en pleine terre (1801–1819) by Pierre-Joseph Redouté](https://www.rawpixel.com/image/569576/citrus-type)
++ [Citrus from Traité des Arbres et Arbustes que l'on cultive en France en pleine terre (1801–1819) by Pierre-Joseph Redouté](https://www.rawpixel.com/image/569576/citrus-type)
 + [1. Blood orange (_Aurantium hierochunticum_) 2. Bigarade orange (_Bigarradia della bizarria_) from Traité des Arbres et Arbustes que l’on cultive en France en pleine terre (1801–1819) by Pierre-Joseph Redouté](https://www.rawpixel.com/image/569582/blood-orange)
 + [Delicious red cherries illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297988/free-illustration-image-fruit-cherry-botanical)
 + [Vintage halved pomegranate illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297919/free-illustration-image-fruit-pomegranate-food)
