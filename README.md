@@ -25,5 +25,5 @@ Originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), a
 + [Avocados (_Persea_) (1937) by anonymous, U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2260210/free-illustration-image-fruit-food)
 + [Hand drawn pineapple, Biodiversity Heritage Library](https://www.rawpixel.com/image/2880507/free-illustration-image-pineapple-tropical-fruit)
 + [Delicious purple plum in a branch illustration. Digitally enhanced illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2289575/free-illustration-image-fruit-leaves-plum)
-+[Vintage halved pomegranate illustration. Digitally enhanced illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297919/free-illustration-image-fruit-pomegranate-food)
++ [Vintage halved pomegranate illustration. Digitally enhanced illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297919/free-illustration-image-fruit-pomegranate-food)
 
