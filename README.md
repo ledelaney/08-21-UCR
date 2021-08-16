@@ -27,4 +27,4 @@ Originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), a
 + [Delicious red cherries illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297988/free-illustration-image-fruit-cherry-botanical)
 + [Vintage halved pomegranate illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297919/free-illustration-image-fruit-pomegranate-food)
 + [Delicious purple plum in a branch illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2289575/free-illustration-image-fruit-leaves-plum)
-+ [_Citrus decumana _from Traité des Arbres et Arbustes que l'on cultive en France en pleine terre (1801–1819) by Pierre-Joseph Redouté](https://www.rawpixel.com/image/569539/grapefruit-branch)
++ [_Citrus decumana_ from Traité des Arbres et Arbustes que l'on cultive en France en pleine terre (1801–1819) by Pierre-Joseph Redouté](https://www.rawpixel.com/image/569539/grapefruit-branch)
