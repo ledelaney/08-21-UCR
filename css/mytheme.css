@@ -5,6 +5,7 @@
 
 /*-- Font sizing --*/
 .larger { font-size: 400%; line-height: normal;}
+.bitlargest { font-size: 300%; line-height: normal; }
 .bitlarger { font-size: 200%; line-height: normal; }
 .large { font-size: 130%; line-height: normal; }
 .midi { font-size: 85% }
@@ -195,7 +196,7 @@ line-height: normal;
 }
 
 .walnut-text{
-  width: 70%;
+  width: 80%;
   text-align: right;
   position: relative;
   left: 200px;
@@ -610,31 +611,105 @@ line-height: normal;
   top: 1%;
 }
 
+/* slide fourteen: inequities */
 
 .bg_pom {
   position: relative;
   z-index: 1;
+  background-color: #f2f1ef;
 }
 
 .bg_pom::before {    
   content: "";
-  background-image: url('images/bg/pom.jpg');
-  background-size: contain;
+  background-image: url('images/bg/pom.png');
+  background-size: 85%;
   background-repeat: no-repeat;
-  background-color: #1f1f1f;
+  background-color: #f2f1ef;
   position: absolute;
-  top: 0px;
+  top: 470px;
   right: 0px;
   bottom: 0px;
-  left: 0px;
+  left: 700px;
   opacity: 1;
   z-index: -1;
 }
 
+.pomtitle {
+  position: absolute;
+  left: 3%;
+  top: 0%;
+}
+
+.invis{
+  opacity: 0;
+}
+
+/* slide fifteen: tracking progress */
+
+.bg_plum {
+  position: relative;
+  z-index: 1;
+  background-color: #f2f1ef;
+}
+
+.bg_plum::before {    
+  content: "";
+  background-image: url('images/bg/plum.png');
+  background-size: 35%;
+  background-repeat: no-repeat;
+  background-color: #f2f1ef;
+  position: absolute;
+  top: 130px;
+  right: 250px;
+  bottom: 0px;
+  left: 00px;
+  opacity: 1;
+  z-index: -1;
+}
+
+.plumtitle {
+  position: absolute;
+  right: 3%;
+  top: 0%;
+}
 
 
+/* conclusion slide  */
 
 
+.bg_4citrus {
+  position: relative;
+  z-index: 1;
+  background-color: #f7f6f4;
+}
+
+.bg_4citrus::before {    
+  content: "";
+  background-image: url('images/bg/4-citrus.png');
+  background-size: 95%;
+  background-repeat: no-repeat;
+  background-color: #f7f6f4;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 540px;
+  opacity: 1;
+  z-index: -1;
+  transform: scaleX(-1);
+}
+
+.pomstext {
+  position: absolute;
+  left: 3%;
+  top: 25%;
+}
+
+.pomstitle {
+  position: absolute;
+  left: 3%;
+  top: 0%;
+}
 
 
 

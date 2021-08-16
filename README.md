@@ -12,7 +12,7 @@ Libraries and preliminary `HTML` file created with the R package `xaringan`, bui
 
 Originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), an incredible resource of public domain images. (Found trawling the GitHub pages of [@apreshill](https://github.com/apreshill).) Many were modified later in Illustrator.
 
-+ [Cockatoo and Pomegranate by Ohara Koson (1877–1945)](https://www.rawpixel.com/image/2438864/free-illustration-image-bird-japanese-flower)
+
 + [Walnut (_Persica violacea_) from Pomona Italiana (1817 - 1839) by Giorgio Gallesio](https://www.rawpixel.com/image/321652/free-illustration-image-fruit-botanical-book)
 + [Delicious red cherries illustration, U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297988/free-illustration-image-fruit-cherry-botanical)
 + [Vintage branch of blackberry](https://www.rawpixel.com/image/2289532/free-illustration-image-fruit-blackberry-berry)
@@ -25,6 +25,5 @@ Originate from [RawPixel](https://www.rawpixel.com/category/53/public-domain), a
 + [Avocados (_Persea_) (1937) by anonymous, U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2260210/free-illustration-image-fruit-food)
 + [Hand drawn pineapple, Biodiversity Heritage Library](https://www.rawpixel.com/image/2880507/free-illustration-image-pineapple-tropical-fruit)
 + [Delicious purple plum in a branch illustration. Digitally enhanced illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2289575/free-illustration-image-fruit-leaves-plum)
-+ [Lemons (Citrus Limon) (1908) by Ellen Isham Schutt. Original from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2255365/free-illustration-image-lemon-fruit-vintage)
 +[Vintage halved pomegranate illustration. Digitally enhanced illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2297919/free-illustration-image-fruit-pomegranate-food)
-+ [Vintage banana illustration. Digitally enhanced illustration from U.S. Department of Agriculture Pomological Watercolor Collection](https://www.rawpixel.com/image/2289688/free-illustration-image-banana-fruit-watercolor)
+
