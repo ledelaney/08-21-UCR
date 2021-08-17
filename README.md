@@ -3,10 +3,11 @@
 the roots of education are bitter but the fruit is sweet: a quote widely (mis)attributed to Aristotle, much to the chagrin of Aristotelian philosophers
 
 🎞️ [View Slide Deck](https://ledelaney.org/talks/2021ucr/)
+🗃️ [View References and Slide Citations](https://github.com/ledelaney/08-21-UCR/blob/main/extras/references.pdf)
 
 ## Slides
 
-Libraries and preliminary `HTML` file created with the R package `xaringan`, built on `remark.js`. The rest was (poorly) hard-coded the old-fashioned way by me. See [`references.pdf`](https://github.com/ledelaney/08-21-UCR/blob/main/extras/references.pdf) for references and slide citations.
+Libraries and preliminary `HTML` file created with the R package `xaringan`, built on `remark.js`. The rest was (poorly) hard-coded the old-fashioned way.
 
 ### Images
 
