@@ -411,6 +411,18 @@ line-height: normal;
   z-index: -1;
 }
 
+.bg_01results {
+  background-image: url(images/figs/32-results.png);
+  background-size: 95%;
+  background-repeat: no-repeat;
+}
+
+.bg_02results {
+  background-image: url(images/figs/33-results.png);
+  background-size: 95%;
+  background-repeat: no-repeat;
+}
+
 
 /* slide eight: domain general and specific */
 
