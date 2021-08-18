@@ -1,6 +1,6 @@
 ![](css/images/08-21-ucr-card.png)
 
-the roots of education are bitter but the fruit is sweet: a quote widely (mis)attributed to Aristotle, much to the chagrin of Aristotelian philosophers
+_the roots of education are bitter but the fruit is sweet: a quote widely (mis)attributed to Aristotle, much to the chagrin of Aristotelian philosophers_
 
 🎞️ [View Slide Deck](https://ledelaney.org/talks/2021ucr/)
 
